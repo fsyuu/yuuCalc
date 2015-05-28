@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yuuCalc</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="click">clickNum</string>
+    <string name="operation">operation</string>
+    <string name="equals">equals</string>
+    <string name="period">period</string>
+    <string name="clear">clear</string>
+
+    <!--  =============button群============= -->
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button_plus">＋</string>
+    <string name="button_minus">－</string>
+    <string name="button_multiplied">×</string>
+    <string name="button_divided">÷</string>
+    <string name="button_equals">＝</string>
+    <string name="button_small_number">.</string>
+    <string name="button_clear">C</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
